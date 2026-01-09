@@ -1,0 +1,5 @@
+{
+  "name": "ClassMate Grouper",
+  "description": "A smart and simple tool to automatically organize students into groups based on class size and group count. Features random shuffling and balanced distribution without external APIs.",
+  "requestFramePermissions": []
+}
